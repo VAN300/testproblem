@@ -1,4 +1,4 @@
 <h1>Test task solution</h1>
 <div>I use maven as a dependency solver, but I do not know whether correct it or not.</div>
 <p>I use Jackson as a json serialisation library</p>
-<h2>For run project you need maven and run command <bold>mvn clean package exec:java</bold></h2>
+<h2>For run project you need maven and run command <b>mvn clean package exec:java</b></h2>
